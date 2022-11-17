@@ -1,0 +1,34 @@
+# ninja log v5
+11	363	6819241940000000	E:/Focus_2022/CSF/Les Ressources/Labs/Partie 2/Lab_Masques/Project/EWARM/Lab/BrowseInfo/User/system_stm32f4xx.xcl	b8109d506adb6869
+2	326	6819241940000000	E:/Focus_2022/CSF/Les Ressources/Labs/Partie 2/Lab_Masques/Project/EWARM/Lab/BrowseInfo/User/main.xcl	1618619b50c5ae55
+2318	2863	6886427213718996	E:/TP Isimm 2022-2023/Labs/Lab5_Masques/Project/EWARM/Lab/BrowseInfo/User/system_stm32f4xx.pbi	af18ef6d759f698f
+1358	4484	6893504070000000	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/User/main.xcl	f765d390d6a87627
+1	189	6820098611675960	E:/Focus_2022/CSF/Les Ressources/Labs/Partie 2/Lab_Masques/Project/EWARM/Lab/BrowseInfo/User/main.pbi	9e51dbb331ae8d80
+3	3771	6904196764968765	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/IO_Toggle.pbw	3a5d463bcfde11a
+309	2265	6820098631295078	E:/Focus_2022/CSF/Les Ressources/Labs/Partie 2/Lab_Masques/Project/EWARM/Lab/BrowseInfo/IO_Toggle.pbw	29f0d63cf6e0c5f6
+378	581	6819241945982099	E:/Focus_2022/CSF/Les Ressources/Labs/Partie 2/Lab_Masques/Project/EWARM/Lab/BrowseInfo/User/system_stm32f4xx.pbi	9e86ba7f932e43e0
+4570	6059	6893504092892190	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/User/system_stm32f4xx.pbi	dc99604a74dca802
+196	301	6820098612804917	E:/Focus_2022/CSF/Les Ressources/Labs/Partie 2/Lab_Masques/Project/EWARM/Lab/BrowseInfo/IO_Toggle.pbd	a9e5cc1f3fd76256
+2	2293	6886427200000000	E:/TP Isimm 2022-2023/Labs/Lab5_Masques/Project/EWARM/Lab/BrowseInfo/User/system_stm32f4xx.xcl	a2751ee4f3c92c05
+163	4321	6886427220000000	E:/TP Isimm 2022-2023/Labs/Lab5_Masques/Project/EWARM/Lab/BrowseInfo/User/main.xcl	2671e61aeaf824a6
+1	272	6887004112326635	E:/TP Isimm 2022-2023/Labs/Lab5_Masques/Project/EWARM/Lab/BrowseInfo/User/main.pbi	871820186307de65
+278	443	6887004114065088	E:/TP Isimm 2022-2023/Labs/Lab5_Masques/Project/EWARM/Lab/BrowseInfo/IO_Toggle.pbd	94d8e7f9f2dc044b
+990	4299	6893501293365667	C:/Users/wassila/Desktop/TP Isimm 2022-2023/Labs/Lab5_Masques/Project/EWARM/Lab/BrowseInfo/IO_Toggle.pbw	339fb7ee6df04f7c
+451	3490	6887004137695908	E:/TP Isimm 2022-2023/Labs/Lab5_Masques/Project/EWARM/Lab/BrowseInfo/IO_Toggle.pbw	1a9e51ec3b12813
+180	421	6887482540000000	C:/Users/wassila/Desktop/TP Isimm 2022-2023/Labs/Lab5_Masques/Project/EWARM/Lab/BrowseInfo/User/main.xcl	25867528128952e0
+35	566	6887482550000000	C:/Users/wassila/Desktop/TP Isimm 2022-2023/Labs/Lab5_Masques/Project/EWARM/Lab/BrowseInfo/User/system_stm32f4xx.xcl	12a068c347a3df7f
+2	299	6893514380000000	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/gpio.xcl	7c6e4c2162713888
+30	546	6893501256724039	C:/Users/wassila/Desktop/TP Isimm 2022-2023/Labs/Lab5_Masques/Project/EWARM/Lab/BrowseInfo/User/main.pbi	23f0158a17323a41
+596	1036	6887482555681371	C:/Users/wassila/Desktop/TP Isimm 2022-2023/Labs/Lab5_Masques/Project/EWARM/Lab/BrowseInfo/User/system_stm32f4xx.pbi	1ab7fcc2b2e0eff8
+561	974	6893501261087326	C:/Users/wassila/Desktop/TP Isimm 2022-2023/Labs/Lab5_Masques/Project/EWARM/Lab/BrowseInfo/IO_Toggle.pbd	38fb965e79d10faa
+67	4543	6893504070000000	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/User/system_stm32f4xx.xcl	714bef5e2c037b3b
+17	236	6904141495842387	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/User/main.pbi	718646640c7c660c
+293	513	6904196674027912	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/IO_Toggle.pbd	d3c7bc10411bbd2b
+9	285	6904196671027957	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/gpio.pbi	775c38d3a09a7d9b
+3	176	6904199985057270	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/gpio.pbi	775c38d3a09a7d9b
+12	188	6904199985097301	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/User/main.pbi	718646640c7c660c
+201	351	6904199986907277	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/IO_Toggle.pbd	d3c7bc10411bbd2b
+369	3077	6904200013097523	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/IO_Toggle.pbw	3a5d463bcfde11a
+2	90	6904201129847442	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/gpio.pbi	775c38d3a09a7d9b
+102	210	6904201131077244	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/IO_Toggle.pbd	d3c7bc10411bbd2b
+229	2198	6904201149827235	C:/Users/wassila/Desktop/TP Isimm 2022-2023/GPIO DRIVER/Project/EWARM/Lab/BrowseInfo/IO_Toggle.pbw	3a5d463bcfde11a
